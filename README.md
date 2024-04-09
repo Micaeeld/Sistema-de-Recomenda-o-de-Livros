@@ -1,12 +1,10 @@
 # **Sistema de Recomendação de Avaliações de Livros**
 
+Utilizando técnicas de filtragem colaborativa, este sistema constrói um modelo de rede neural com TensorFlow e Keras para prever as avaliações de livros. O modelo aprende a partir de avaliações anteriores dos usuários, possibilitando recomendações precisas e relevantes.
+
 ## Objetivo:
 
 Este projeto tem como objetivo desenvolver um sistema de recomendação capaz de prever avaliações de livros com base nas preferências dos usuários, fornecendo recomendações personalizadas.
-
-## Descrição:
-
-Utilizando técnicas de filtragem colaborativa, este sistema constrói um modelo de rede neural com TensorFlow e Keras para prever as avaliações de livros. O modelo aprende a partir de avaliações anteriores dos usuários, possibilitando recomendações precisas e relevantes.
 
 ## **Resumo do Projeto:**
 
