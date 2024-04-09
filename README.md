@@ -1,14 +1,14 @@
 # **Sistema de Recomendação de Avaliações de Livros**
 
-# **Objetivo:**
+## Objetivo:
 
 Este projeto tem como objetivo desenvolver um sistema de recomendação capaz de prever avaliações de livros com base nas preferências dos usuários, fornecendo recomendações personalizadas.
 
-# **Descrição:**
+## Descrição:
 
 Utilizando técnicas de filtragem colaborativa, este sistema constrói um modelo de rede neural com TensorFlow e Keras para prever as avaliações de livros. O modelo aprende a partir de avaliações anteriores dos usuários, possibilitando recomendações precisas e relevantes.
 
-# **Resumo do Projeto:**
+## **Resumo do Projeto:**
 
 - **Pré-processamento de Dados:** Os dados são limpos e processados, tratando valores ausentes, codificando variáveis categóricas e unindo conjuntos de dados relevantes.
 
@@ -20,7 +20,7 @@ Utilizando técnicas de filtragem colaborativa, este sistema constrói um modelo
 
 - **Geração de Recomendações:** Uma função é desenvolvida para gerar recomendações de livros para usuários específicos, prevendo as avaliações de todos os livros e classificando as previsões para identificar as principais recomendações.
 
-# **Dependências:**
+## Dependências:
 
 - pandas
 - numpy
@@ -30,6 +30,6 @@ Utilizando técnicas de filtragem colaborativa, este sistema constrói um modelo
 
 Este projeto utiliza dados disponíveis publicamente no Kaggle. Você pode encontrar mais informações sobre o conjunto de dados [aqui]([https://www.kaggle.com](https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset)).
 
-# **Contribuição**
+## Contribuição
 Contribuições são bem-vindas! Por favor, sinta-se à vontade para abrir um problema ou enviar um pull request.
 
